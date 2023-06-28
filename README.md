@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justine !
 - I am passionate about web development
 - My knowledge : HTML 5 / CSS 3 / JavaScript
-- 🌱 I’m currently learning Git ans GitHub
+- 🌱 I’m currently learning Git and GitHub
 
 <!---
 Kalga8/Kalga8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
